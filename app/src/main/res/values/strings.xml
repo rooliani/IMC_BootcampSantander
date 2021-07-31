@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="IMC">IMC</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="peso_baixo">Peso Baixo (IMC &lt; 18,5)</string>
+    <string name="peso_normal">Peso Normal (IMC 18,5 - 24,9)</string>
+    <string name="sobrepreso">Sobrepeso (IMC 30 - 34,9)</string>
+    <string name="obesidade_I">Obesidade - Grau I (IMC 30 - 34,9)</string>
+    <string name="obesidade_II">Obesidade Severa  - Grau II (IMC 35 - 39,9)</string>
+    <string name="obesidade_III">Obesidade Mórbida  - Grau III (≥ 40)</string>
+    <string name="perca">Perca</string>
+    <string name="ganhe">Ganhe</string>
+    <string name="atingir_imc_normal">kg para atingir o IMC Normal</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="principal">#424143</color>
+    <color name="secundaria">#99999E</color>
+    <color name="pesoBaixo_1">#8AD4D7</color>
+    <color name="pesoNormal_2">#30A6B9</color>
+    <color name="sobrePeso_3">#F2644A</color>
+    <color name="obesidade_4">#E44143</color>
+    <color name="obesidadeSevera_5">#E02E49</color>
+    <color name="obesidadeMorbida_6">#C72736</color>
+</resources>
